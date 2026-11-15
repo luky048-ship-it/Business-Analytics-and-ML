@@ -1,0 +1,16 @@
+# uv / Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS / редакторы
+.DS_Store
+.vscode/
+.idea/
+
+
+.csv
